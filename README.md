@@ -10,8 +10,4 @@ Features: wave-based enemy AI, sword attacks, health bar with regeneration, anim
 
 Controls: A/D or arrows to move, W/Up to jump, Q to attack, R to play again.
 
-Run It
-pip install pygame
-python proto.py
-
 Built with Python, Pygame, and GitHub Copilot (used for bat-following, code cleanup, music, and screen switching).
